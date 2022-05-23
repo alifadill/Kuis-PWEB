@@ -1,0 +1,16 @@
+tambah navigasi
+ubah tampilan V
+ubah posisi V
+ubah detail name page V
+input dengan value yang tidak bisa diubah (readonly)V
+disabled untuk button V
+pemberitahuam kalau tanel kosong dan tambahkan tombol tambah data
+
+tipe data pada order pada code dan db
+
+err
+ga tampil data order lanjutan
+
+
+----
+zidan ml diamond 300, livestream yt
